@@ -1,7 +1,7 @@
 ### OOPwithPython
 1. Introduction
    * Classes
-   * Attribites
+   * Attributes
    * Methods
    * Methods vs. Functions
    * Constructor / Initializer
