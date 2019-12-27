@@ -45,6 +45,8 @@ elif selection =="3":
 elif selection =="4":
     div_v = c1.division()
     print("Div {}".format(div_v))
+else:
+    print("There is no selection")
 
         
 print()
