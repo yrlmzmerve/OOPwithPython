@@ -7,3 +7,4 @@
    * Constructor / Initializer
  
  2. Basic Calculator Application (4 opr.)
+ 3. Encapsulation
