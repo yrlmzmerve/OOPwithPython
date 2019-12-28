@@ -12,3 +12,4 @@
  5. Inheritance _ Proje
  6. Abstract Classes
  7. Overriding
+ 8. Polymorphism
