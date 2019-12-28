@@ -1,4 +1,4 @@
-### OOPwithPython
+### Object Oriented Programming with Python
 1. Introduction
    * Classes
    * Attributes
