@@ -8,3 +8,4 @@
  
  2. Basic Calculator Application (4 opr.)
  3. Encapsulation
+ 4. Inheritance
